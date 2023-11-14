@@ -30,6 +30,6 @@ houses house housess -> houses1house1housess1
 2. Submit your solution with the "submit" command in the terminal, for example like this:
 submit dog3cat3car1sun1
 
-# Solution:
+## Solution:
 
- ### Console log in [JavaScript](./index.js) file.
+Console log in [JavaScript](./index.js) file.

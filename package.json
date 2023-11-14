@@ -1,0 +1,11 @@
+{
+  "name": "codember2023",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Solutions to Codember code challenges 2023",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
