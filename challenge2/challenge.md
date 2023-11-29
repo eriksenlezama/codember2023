@@ -1,4 +1,4 @@
-# The Challenge
+# Mini Compiler Challenge
 In the world of espionage, a coding language is used with symbols that perform simple mathematical operations.
 
 Your task is to create a mini compiler that interprets and executes programs written in this symbol language.
